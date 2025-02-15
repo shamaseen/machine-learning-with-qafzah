@@ -37,14 +37,14 @@ Once Git is installed, clone the repository:
 #### For macOS/Linux:
 - Open the terminal and run:
     ```
-    git clone https://github.com/your-username/machine-learning-with-qafzah.git
+    git clone https://github.com/shamaseen/machine-learning-with-qafzah.git
     cd machine-learning-with-qafzah
     ```
 
 #### For Windows:
 - Open the Command Prompt or PowerShell and run:
     ```
-    git clone https://github.com/your-username/machine-learning-with-qafzah.git
+    git clone https://github.com/shamaseen/machine-learning-with-qafzah.git
     cd machine-learning-with-qafzah
     ```
 
